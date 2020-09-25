@@ -1,0 +1,5 @@
+Credentials cache: API:DF25EBBD-D391-4D95-B390-634F3DCE95DA
+        Principal: hmuhire@S19.BE
+
+  Issued                Expires               Principal
+Sep 13 19:36:17 2020  Sep 14 05:36:12 2020  krbtgt/S19.BE@S19.BE
